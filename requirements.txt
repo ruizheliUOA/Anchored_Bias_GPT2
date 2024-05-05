@@ -1,0 +1,9 @@
+torch
+transformers
+einops
+numpy
+plotly
+circuitsvis
+transformer_lens
+rich
+fancy_einsum
