@@ -11,7 +11,7 @@ See our paper: [Anchored Answers: Unravelling Positional Bias in GPT-2's Multipl
 ## Requirements
 This code requires a single GPU to run. If you run it using CPU, it might need longer time to finish loading and computing.
 
-## Dependecies
+## Dependencies
 
 It is better to create a new conda environment to run this code. You can create a new conda environment by running the following command:
 
